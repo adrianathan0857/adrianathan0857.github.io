@@ -3,4 +3,4 @@
 :wave: Hi, we are the **Manila CQA DevOps Team!**
 > Info
 > > The **CQA DevOps Team** designs, develops, operates, and maintains robust digital automation solutions, through agile DevOps practices, that enable the Corporate Quality Assurance Organization to deliver superior quality that creates trust, delight and value to our customers.
-![Sample Org Chart](Sample Pic 1.png)
+![Sample Org Chart](adrianathan0857.github.io/Sample Pic 1.png)
