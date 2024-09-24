@@ -1,10 +1,6 @@
 # Onboarding and Set Up Page
-Insert Table Below
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [filler] |
-| GitHub | [filler] |
-| Google Drive | [filler] |
-| OneDrive | [filler] |
-| Medium | [filler] |
-| Google Analytics | [filler] |
+## People to Meet
+| Name | Role | Band | Location |
+| ------ | ------ | ------ | ------ |
+| Diane Sherrard | QA Vice President | 5 | Cincinnati, OH, USA |
+| Craig Hawkins | QA Senior Director | 4 | Cincinnati, OH, USA |
